@@ -12,13 +12,21 @@ namespace Learn
         public string? Name { get; set; }
         public string? Company { get; set; }
         public int Price { get; set; }
-        public void ToSale()
+        public void Preparation()
         {
-            var staff = StaffToSale();
-            SmthMethod(staff);
+            var des = Description();
+            AddDescription(des);
+            SetDescription(des);
         }
-        private void SmthMethod(object staff) { }
-        
-        protected abstract object StaffToSale();        
+        private void AddDescription(object des)
+        {
+            Console.WriteLine("Добавил описание");
+        }
+        private void SetDescription(object des) 
+        {
+            Console.WriteLine("Установил описание");
+        }
+
+        protected abstract object Description();        
     }
 }

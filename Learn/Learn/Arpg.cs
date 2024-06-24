@@ -1,16 +1,22 @@
 ﻿namespace Learn
 {
     public class Arpg : Rpg
-    {
-        protected override object StaffToSale()
+    {     
+
+        public Arpg(string name, string country, int price) : base(name, country, price)
         {
-            var staff = base.StaffToSale();
-            var actStuff = Actioned(staff);
-            return base.StaffToSale();
         }
-        private object Actioned(object stuff)
+
+        protected override object Description()
         {
-            return stuff;
+            var des = base.Description();
+            var rating = AddRating(des);
+            return rating;
+        }
+        private object AddRating(object des)
+        {
+            Console.WriteLine("Рейтинг добавлен");
+            return des;           
         }
     }
 }
