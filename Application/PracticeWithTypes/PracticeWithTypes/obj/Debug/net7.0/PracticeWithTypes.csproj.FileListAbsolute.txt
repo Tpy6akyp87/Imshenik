@@ -1,0 +1,14 @@
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\bin\Debug\net7.0\PracticeWithTypes.exe
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\bin\Debug\net7.0\PracticeWithTypes.deps.json
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\bin\Debug\net7.0\PracticeWithTypes.runtimeconfig.json
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\bin\Debug\net7.0\PracticeWithTypes.dll
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\bin\Debug\net7.0\PracticeWithTypes.pdb
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.AssemblyInfoInputs.cache
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.AssemblyInfo.cs
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.csproj.CoreCompileInputs.cache
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.dll
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\refint\PracticeWithTypes.dll
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.pdb
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.genruntimeconfig.cache
+D:\Imsh\Application\PracticeWithTypes\PracticeWithTypes\obj\Debug\net7.0\ref\PracticeWithTypes.dll
