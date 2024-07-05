@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/Models.dll": {}
         }
-      },
-      "Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Models": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Services.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../Models/Models.csproj",
       "msbuildProject": "../Models/Models.csproj"
-    },
-    "Services/1.0.0": {
-      "type": "project",
-      "path": "../Services/Services.csproj",
-      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Models >= 1.0.0",
-      "Services >= 1.0.0"
+      "Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Imsh\\Learn\\PracticeWithTypes\\PracticeWithTypes.csproj",
-      "projectName": "PracticeWithTypes",
-      "projectPath": "D:\\Imsh\\Learn\\PracticeWithTypes\\PracticeWithTypes.csproj",
+      "projectUniqueName": "D:\\Imsh\\Learn\\Services\\Services.csproj",
+      "projectName": "Services",
+      "projectPath": "D:\\Imsh\\Learn\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\a.imshenik\\.nuget\\packages\\",
-      "outputPath": "D:\\Imsh\\Learn\\PracticeWithTypes\\obj\\",
+      "outputPath": "D:\\Imsh\\Learn\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.imshenik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,9 +55,6 @@
           "projectReferences": {
             "D:\\Imsh\\Learn\\Models\\Models.csproj": {
               "projectPath": "D:\\Imsh\\Learn\\Models\\Models.csproj"
-            },
-            "D:\\Imsh\\Learn\\Services\\Services.csproj": {
-              "projectPath": "D:\\Imsh\\Learn\\Services\\Services.csproj"
             }
           }
         }

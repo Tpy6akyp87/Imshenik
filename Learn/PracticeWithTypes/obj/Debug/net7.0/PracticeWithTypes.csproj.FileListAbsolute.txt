@@ -16,3 +16,5 @@ D:\Imsh\Learn\PracticeWithTypes\obj\Debug\net7.0\refint\PracticeWithTypes.dll
 D:\Imsh\Learn\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.pdb
 D:\Imsh\Learn\PracticeWithTypes\obj\Debug\net7.0\PracticeWithTypes.genruntimeconfig.cache
 D:\Imsh\Learn\PracticeWithTypes\obj\Debug\net7.0\ref\PracticeWithTypes.dll
+D:\Imsh\Learn\PracticeWithTypes\bin\Debug\net7.0\Services.dll
+D:\Imsh\Learn\PracticeWithTypes\bin\Debug\net7.0\Services.pdb
